@@ -66,7 +66,7 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 ## 👨‍💻 Author
 
 **Aman Prajapati**
-💼 Aspiring .NET Full Stack Developer
+💼  .NET Full Stack Developer
 
 
 ## 🌟 Support
