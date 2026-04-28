@@ -30,7 +30,7 @@ export default function Home() {
         let nextPage = page + 1
         setPage(nextPage)
 
-        let response = await fetch(`https://newsapi.org/v2/everything?q=${q}&language=${language}&pageSize=24&page=${nextPage}&sortBy=publishedAt&apiKey=45017cf1fc8c4061a3fc9bff623f87cb`)
+        let response = await fetch(`https://newsapi.org/v2/everything?q=${q}&language=${language}&pageSize=24&page=${nextPage}&sortBy=publishedAt&apiKey= Your API KEY`)
         response = await response.json()
 
         if (response.status === "ok") {
