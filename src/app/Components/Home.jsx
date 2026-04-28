@@ -17,7 +17,7 @@ export default function Home() {
     const params = useSearchParams()
 
     async function getAPIData(q, language) {
-        let response = await fetch(`https://newsapi.org/v2/everything?q=${q}&language=${language}&pageSize=24&page=1&sortBy=publishedAt&apiKey=45017cf1fc8c4061a3fc9bff623f87cb`)
+        let response = await fetch(`https://newsapi.org/v2/everything?q=${q}&language=${language}&pageSize=24&page=1&sortBy=publishedAt&apiKey= Your API Key`)
         response = await response.json()
 
         if (response.status === "ok") {
