@@ -37,7 +37,7 @@ It supports search, multiple languages, and smooth infinite scrolling for a seam
 
 ## 📸 Screenshots
 
-(Add screenshots of your app here for better presentation)
+
 
 
 
