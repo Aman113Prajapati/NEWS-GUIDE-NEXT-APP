@@ -13,7 +13,7 @@ It supports search, multiple languages, and smooth infinite scrolling for a seam
 * ⚡ Fast and optimized with Next.js (SSR/CSR)
 * ♾️ Limited scrolling for better UX
 * 📱 Fully responsive design
-* 🖼️ Fallback image support for missing media
+* 🖼️ Fallback image support for missing media 
 
 
 
