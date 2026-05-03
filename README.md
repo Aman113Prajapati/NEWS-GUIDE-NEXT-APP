@@ -37,6 +37,7 @@ It supports search, multiple languages, and smooth infinite scrolling for a seam
 
 ## 📸 Screenshots
 
+![App Screenshot](https://github.com/Aman113Prajapati/NEWS-GUIDE-NEXT-APP/blob/839ed7540b23ec3b6f9207a67fa8ed1efe01c52b/public/images/final%20Review.png)
 
 
 
