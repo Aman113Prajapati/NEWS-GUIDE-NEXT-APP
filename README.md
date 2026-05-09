@@ -6,7 +6,7 @@ It supports search, multiple languages, and smooth infinite scrolling for a seam
 
 
 ## 📌 Features
-* 📰 Real-time API Data Fetching
+* 📰 Real-time API Data Fetching 
 * 🗞️ Latest news from multiple categories
 * 🔍 Search functionality for custom queries
 * 🌐 Multi-language support
